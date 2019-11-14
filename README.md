@@ -42,7 +42,7 @@ These are the critters we are asking you to complete for pre-work.
 `Unicorn` will help you get started and is very simple compared to the others.
 
 [ x ] `unicorn`
-* `medusa`
+[ x ] `medusa`
 * `werewolf`
 * `centaur`
 * `direwolf`
